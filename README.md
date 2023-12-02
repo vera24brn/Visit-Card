@@ -2,7 +2,7 @@
 
 A simple and stylish responsive profile card template built with HTML and CSS. Showcase your personal information, links, and statistics with a clean and elegant design.
 
-Responsive Profile Card image [image] https://github.com/vera24brn/Visit-Card/blob/master/images/preview_Responsive_profile_Card.jpeg 
+Responsive Profile Card image ![image](https://github.com/vera24brn/Visit-Card/blob/master/images/preview_Responsive_profile_Card.jpeg)
 
 ## Project Structure
 The project has the following structure:
@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 
 1.	**Clone the Repositor**:
 bashCopy code
-git clone https://github.com/vera24brn/Visit-card
+git clone https://github.com/vera24brn/Visit-card.git
 
 2.	**Open in Browser**:
 Open the index.html file in your web browser.
@@ -53,7 +53,7 @@ View your personalized profile card in the browser.
 ## Clone the Repository
 1. bashCopy code
 
-2. git clone https://github.com/vera24brn/Visit-Card
+2. git clone https://github.com/vera24brn/Visit-Card.git
 
 3. Open the project folder in your code editor.
 
